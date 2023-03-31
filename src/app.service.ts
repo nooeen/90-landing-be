@@ -7,32 +7,32 @@ export class AppService {
       {
         name: 'XOILAC',
         url: 'https://xem9.xoilac12.org/?utm_source=landing&utm_medium=landing',
-        logo: 'https://90m.link/images/logo-xoilac.png',
+        logo: '/logo-xoilac.png',
       },
       {
         name: 'VEBOtv',
         url: 'https://tructiep.vebo3.org/?utm_source=landing&utm_medium=landing',
-        logo: 'https://90m.link/images/logo-01.png',
+        logo: '/logo-01.png',
       },
       {
         name: 'BanhKhuc',
         url: 'https://xem9.banhkhuc6.com/?utm_source=landing&utm_medium=landing',
-        logo: 'https://90m.link/images/logo-bk.png',
+        logo: '/logo-bk.png',
       },
       {
         name: '90Phut',
         url: 'https://tructiep.90phut4.live/?utm_source=landing&utm_medium=landing',
-        logo: 'https://90m.link/images/logo-90.png',
+        logo: '/logo-90.png',
       },
       {
         name: 'Group Facebook',
         url: 'https://www.facebook.com/groups/3069898683235513/',
-        logo: 'https://90m.link/images/logo-facebook.png',
+        logo: '/logo-facebook.png',
       },
       {
         name: 'Không Sợ Bóng',
         url: 'https://www.facebook.com/groups/3069898683235513/',
-        logo: 'https://90m.link/images/logo-youtube.png',
+        logo: '/logo-youtube.png',
       },
     ];
   }
